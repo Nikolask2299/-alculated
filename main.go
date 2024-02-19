@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func RimRedact() string {
-	
+
 }
 
 
@@ -111,6 +111,8 @@ func Calulates(expr string) string {
 		}
 		panic("Expected expresson not in the correct format")
 	}
+
+	
 }
 
 func main() {
